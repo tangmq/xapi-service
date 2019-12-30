@@ -323,10 +323,6 @@
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/@types/atob/-/atob-2.1.2.tgz#157eb0cc46264a8c55f2273a836c7a1a644fb820"
 
-"@types/bluebird@*":
-  version "3.5.29"
-  resolved "https://registry.yarnpkg.com/@types/bluebird/-/bluebird-3.5.29.tgz#7cd933c902c4fc83046517a1bef973886d00bdb6"
-
 "@types/body-parser@*":
   version "1.17.1"
   resolved "https://registry.yarnpkg.com/@types/body-parser/-/body-parser-1.17.1.tgz#18fcf61768fb5c30ccc508c21d6fd2e8b3bf7897"
@@ -410,11 +406,10 @@
     "@types/node" "*"
     "@types/request" "*"
 
-"@types/ioredis@3.2.23":
-  version "3.2.23"
-  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-3.2.23.tgz#c5ef1972da46dc477fb719389ee54cb2de9d6466"
+"@types/ioredis@4.14.3":
+  version "4.14.3"
+  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-4.14.3.tgz#6a6089296d6fb90bbaee96d36b19d480efff026a"
   dependencies:
-    "@types/bluebird" "*"
     "@types/node" "*"
 
 "@types/jsonwebtoken@8.3.5":
