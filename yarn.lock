@@ -443,9 +443,9 @@
   version "5.2.7"
   resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-5.2.7.tgz#315d570ccb56c53452ff8638738df60726d5b6ea"
 
-"@types/mongodb@3.1.10":
-  version "3.1.10"
-  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.1.10.tgz#c97ecc061c276e87a5b819b992cd8ab2afb54d77"
+"@types/mongodb@3.3.14":
+  version "3.3.14"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.3.14.tgz#5b44bf16b5856eb829545edcc2c4d7726b44b864"
   dependencies:
     "@types/bson" "*"
     "@types/node" "*"
