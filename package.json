@@ -94,7 +94,7 @@
     "@types/uuid": "3.4.6",
     "@types/winston": "2.4.4",
     "colors": "1.4.0",
-    "jscpd": "0.6.25",
+    "jscpd": "2.0.16",
     "mocha": "6.2.2",
     "nyc": "11.9.0",
     "rimraf": "2.7.1",
